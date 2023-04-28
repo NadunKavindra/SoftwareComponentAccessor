@@ -1,0 +1,12 @@
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\bin\Debug\net5.0\UseNewtonSoft.deps.json
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\bin\Debug\net5.0\UseNewtonSoft.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\bin\Debug\net5.0\ref\UseNewtonSoft.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\bin\Debug\net5.0\UseNewtonSoft.pdb
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\UseNewtonSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\UseNewtonSoft.AssemblyInfoInputs.cache
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\UseNewtonSoft.AssemblyInfo.cs
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\UseNewtonSoft.csproj.CoreCompileInputs.cache
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\UseNewtonSoft.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\ref\UseNewtonSoft.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\UseNewtonSoft.pdb
+C:\Users\Nadun\Desktop\TEMP\progConcepts\UseNewtonSoft\obj\Debug\net5.0\UseNewtonSoft.csproj.AssemblyReference.cache

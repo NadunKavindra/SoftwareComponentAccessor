@@ -1,0 +1,12 @@
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\HttpClientNet.csproj.AssemblyReference.cache
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\HttpClientNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\HttpClientNet.AssemblyInfoInputs.cache
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\HttpClientNet.AssemblyInfo.cs
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\HttpClientNet.csproj.CoreCompileInputs.cache
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\bin\Debug\net5.0\HttpClientNet.deps.json
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\bin\Debug\net5.0\HttpClientNet.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\bin\Debug\net5.0\ref\HttpClientNet.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\bin\Debug\net5.0\HttpClientNet.pdb
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\HttpClientNet.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\ref\HttpClientNet.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\HttpClientNet\obj\Debug\net5.0\HttpClientNet.pdb

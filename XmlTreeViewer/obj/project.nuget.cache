@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/o40qz5Ah+zBxsr3XxKgtqnKgoWr6yI05VdUY4ErloKA+mzCpuoCivOOw5egZjWO/IoRBNDIsBAjWgFfXR9JQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nadun\\Desktop\\TEMP\\progConcepts\\XmlTreeViewer\\XmlTreeViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nadun\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

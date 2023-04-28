@@ -1,0 +1,12 @@
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\bin\Debug\net5.0\XmlTreeViewer.deps.json
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\bin\Debug\net5.0\XmlTreeViewer.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\bin\Debug\net5.0\ref\XmlTreeViewer.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\bin\Debug\net5.0\XmlTreeViewer.pdb
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\XmlTreeViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\XmlTreeViewer.AssemblyInfoInputs.cache
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\XmlTreeViewer.AssemblyInfo.cs
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\XmlTreeViewer.csproj.CoreCompileInputs.cache
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\XmlTreeViewer.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\ref\XmlTreeViewer.dll
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\XmlTreeViewer.pdb
+C:\Users\Nadun\Desktop\TEMP\progConcepts\XmlTreeViewer\obj\Debug\net5.0\XmlTreeViewer.csproj.AssemblyReference.cache
