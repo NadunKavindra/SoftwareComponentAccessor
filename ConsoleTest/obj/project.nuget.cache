@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OyDG7DK1t4HnBzTgXX7m4nB7l5sRJdbVVmcQSJG0auEV78HqI41ekYwCGv9lJvvXBwa4Z4hPnUN2Qif0kt1f1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nadun\\Desktop\\TEMP\\progConcepts\\ConsoleTest\\ComponentAccessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nadun\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Nadun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
